@@ -25,7 +25,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nickklosterman&theme=radical" alt="GitHub Stats">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickklosterman&theme=radical" alt="Most used">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickklosterman&hide=python,shell&theme=radical" alt="Most used">
 </p>
 <!---
 nickklosterman/nickklosterman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 GitHub Stats and most used language: https://github.com/anuraghazra/github-readme-stats
 Lol, nothing to say I couldn't change the username to one that gives more favorable results :)
+Or just hide the languages you don't want to highlight (like I did with Python, Shell) ... or get rid of the damn thing
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickklosterman&theme=radical) - MD format to enter img, ref: https://erlete.github.io/github-customization-guide/guides/stats-guide-1.html
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickklosterman&theme=radical" alt="Most used">
 
